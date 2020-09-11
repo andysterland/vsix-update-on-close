@@ -1,0 +1,13 @@
+C:\src\UpdateScheduler\UpdateScheduler\ConsoleScheduler\bin\Debug\netcoreapp3.1\ConsoleScheduler.exe
+C:\src\UpdateScheduler\UpdateScheduler\ConsoleScheduler\bin\Debug\netcoreapp3.1\ConsoleScheduler.deps.json
+C:\src\UpdateScheduler\UpdateScheduler\ConsoleScheduler\bin\Debug\netcoreapp3.1\ConsoleScheduler.runtimeconfig.json
+C:\src\UpdateScheduler\UpdateScheduler\ConsoleScheduler\bin\Debug\netcoreapp3.1\ConsoleScheduler.runtimeconfig.dev.json
+C:\src\UpdateScheduler\UpdateScheduler\ConsoleScheduler\bin\Debug\netcoreapp3.1\ConsoleScheduler.dll
+C:\src\UpdateScheduler\UpdateScheduler\ConsoleScheduler\bin\Debug\netcoreapp3.1\ConsoleScheduler.pdb
+C:\src\UpdateScheduler\UpdateScheduler\ConsoleScheduler\obj\Debug\netcoreapp3.1\ConsoleScheduler.AssemblyInfoInputs.cache
+C:\src\UpdateScheduler\UpdateScheduler\ConsoleScheduler\obj\Debug\netcoreapp3.1\ConsoleScheduler.AssemblyInfo.cs
+C:\src\UpdateScheduler\UpdateScheduler\ConsoleScheduler\obj\Debug\netcoreapp3.1\ConsoleScheduler.csproj.CoreCompileInputs.cache
+C:\src\UpdateScheduler\UpdateScheduler\ConsoleScheduler\obj\Debug\netcoreapp3.1\ConsoleScheduler.dll
+C:\src\UpdateScheduler\UpdateScheduler\ConsoleScheduler\obj\Debug\netcoreapp3.1\ConsoleScheduler.pdb
+C:\src\UpdateScheduler\UpdateScheduler\ConsoleScheduler\obj\Debug\netcoreapp3.1\ConsoleScheduler.genruntimeconfig.cache
+C:\src\UpdateScheduler\UpdateScheduler\ConsoleScheduler\obj\Debug\netcoreapp3.1\ConsoleScheduler.csprojAssemblyReference.cache
