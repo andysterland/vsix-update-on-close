@@ -26,7 +26,7 @@ namespace ConsoleScheduler
             var vsToWatch = Path.GetFileNameWithoutExtension(vsLocation);
                             
             var watcher = new Watcher(vsToWatch);
-            Console.WriteLine($"Waiting for all {vsToWatch} processes to exit. The Visual Studio update will start once all processes exit. To cancel the update close this window.");
+            Console.WriteLine($"Waiting for all {vsToWatch} processes to exit. The Visual Studio update will start once all processes exit.");
             watcher.Start();
             Console.WriteLine($"Starting update for: {vsLocation}");
             var vsUpdater = new VSUpdater(vsLocation);
